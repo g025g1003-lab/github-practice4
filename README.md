@@ -10,3 +10,5 @@ GitHub 04 Branch
 
 README.mdの編集
 
+##リモートリポジトリの編集
+GitHubからREADME.mdを編集
